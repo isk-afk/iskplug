@@ -1,4 +1,4 @@
-#profile-update-interval: 6
+#profile-update-interval: 12
 #profile-title: 🌽 iskvpn
 #announce: 🌽 создано @neisk1 (не распространять ключ)
 vless://50550ccf-a063-47e7-bf95-ddc73710663a@37.143.15.166:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%A9%F0%9F%87%AA+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%231+%7C+%40iskvpn
